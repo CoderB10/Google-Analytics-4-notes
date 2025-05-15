@@ -257,5 +257,7 @@ A quick comparison of features, limits, and pricing between GA4 Free and Analyti
 | Price                 | Free                         | From \~\$150K/yr               |
 
 ---
+Author
+Yog Gupta — Analytics Learner | Data Analyst 
 
 
